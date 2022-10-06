@@ -10,6 +10,7 @@ Michał Machura
 
 e-mail: mmachura(at)agh.edu.pl
 
+subject: [EmbeddedAI]-{rest of the subject}
 
 #### Team
 
