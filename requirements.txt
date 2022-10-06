@@ -1,0 +1,11 @@
+torch
+torchaudio
+torchvision
+torch-geometric
+torchmetrics
+scikit-learn
+scipy
+brevitas
+nvidia-pyindex
+nvidia-tensorrt==8.4.3.1
+git+https://github.com/pytorch/TensorRT@releases/tag/v1.2.0#egg=torch-tensorrt
