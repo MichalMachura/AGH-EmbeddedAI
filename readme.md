@@ -4,6 +4,15 @@ Repository for an $Embedded AI$ classes at AGH University of Science and Technol
 
 
 ### Contact
+
+
+Michał Machura
+
+e-mail: mmachura(at)agh.edu.pl
+
+
+#### Team
+
 Embedded Vision Systems Group
 
 Computer Vision Laboratory
@@ -15,3 +24,7 @@ Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical E
 AGH University of Science and Technology
 
 
+#### Website
+Website available (for now) only in polish:
+
+https://kair.agh.edu.pl/wsw
