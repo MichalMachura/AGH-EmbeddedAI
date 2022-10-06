@@ -8,7 +8,7 @@ Repository for an $Embedded AI$ classes at AGH University of Science and Technol
 
 Michał Machura
 
-e-mail: mmachura(at)agh.edu.pl
+e-mail: you can find it [here](https://kair.agh.edu.pl/evs/)
 
 subject: [EmbeddedAI]-{rest of the subject}
 
@@ -26,6 +26,5 @@ AGH University of Science and Technology
 
 
 #### Website
-Website available (for now) only in polish:
 
-https://kair.agh.edu.pl/wsw
+https://kair.agh.edu.pl/evs/
