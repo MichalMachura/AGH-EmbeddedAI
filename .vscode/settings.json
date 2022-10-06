@@ -4,5 +4,9 @@
 "jupyter.debugJustMyCode": false,
 // "python.defaultInterpreterPath": "${workspaceFolder}/eAI/bin/python3",
 // "python.envFile": "${workspaceFolder}/eAI/bin/activate",
-"python.globalModuleInstallation": true
+"python.globalModuleInstallation": true,
+"cSpell.words": [
+    "nonlinearities",
+    "softmax"
+]
 }
