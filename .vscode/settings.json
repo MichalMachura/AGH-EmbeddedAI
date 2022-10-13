@@ -3,6 +3,7 @@
 // "python.terminal.activateEnvironment": true,
 "jupyter.debugJustMyCode": false,
 // "python.defaultInterpreterPath": "${workspaceFolder}/eAI/bin/python3",
+"python.defaultInterpreterPath": "/bin/python",
 // "python.envFile": "${workspaceFolder}/eAI/bin/activate",
 "python.globalModuleInstallation": true,
 "cSpell.words": [
