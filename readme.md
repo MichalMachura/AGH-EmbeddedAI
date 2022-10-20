@@ -2,6 +2,9 @@
 
 Repository for an $Embedded AI$ classes at AGH University of Science and Technology.
 
+Link to the UPEL platform:
+
+[UPEL](https://upel.agh.edu.pl/)
 
 ### Contact
 
