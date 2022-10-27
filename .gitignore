@@ -1,3 +1,5 @@
 .ipynb_chackpoints
 */data
 *copy*
+*.pth
+*tmp*
