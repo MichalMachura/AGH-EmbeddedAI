@@ -3,3 +3,4 @@
 *copy*
 *.pth
 *tmp*
+__pycache__
