@@ -4,3 +4,5 @@
 *.pth
 *tmp*
 __pycache__
+build
+quant_dir
