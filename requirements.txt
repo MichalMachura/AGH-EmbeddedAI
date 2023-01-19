@@ -1,3 +1,5 @@
+numpy
+matplotlib
 torch
 torchaudio
 torchvision
@@ -7,5 +9,7 @@ scikit-learn
 scipy
 brevitas
 nvidia-pyindex
-nvidia-tensorrt==8.4.3.1
-git+https://github.com/pytorch/TensorRT@releases/tag/v1.2.0#egg=torch-tensorrt
+nvidia-tensorrt
+tensorflow
+jupyter
+notebook
