@@ -31,7 +31,7 @@ class TimeMeasurement:
     def time(self) -> float:
         if self.begin is None or self.end is None:
             raise RuntimeError()
-        return int(self.end - self.begin)
+        return self.end - self.begin
 
     @property
     def fps(self):
@@ -50,8 +50,8 @@ class TimeMeasurement:
         t = self.time
         h = t // 60
         min = (t - h*60) // 60
-        s = np.floor(t - h*60 - min*60)
-        ms = np.floor((t - np.floor(t))*1000)
+        s = int(t - h*60 - min*60)
+        ms = int((t - np.floor(t))*1000)
 
         return f'TimeMeasurement(context="{self.context_name}","{h}:{min}:{s}:{ms}", frames={self.frames}, throughput={self.fps})'
 
